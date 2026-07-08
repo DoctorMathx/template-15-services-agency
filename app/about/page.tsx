@@ -36,7 +36,7 @@ export default function AboutPage() {
 
       <Section pad="lg">
         <div className="grid lg:grid-cols-12 gap-10 items-center max-w-6xl">
-          <div className="lg:col-span-5"><div className="relative aspect-[4/5] bg-canvas overflow-hidden border border-line"><Image src="/img/team-boardroom.png" alt="Studio Ova" fill sizes="(max-width:1024px) 100vw, 40vw" className="object-cover" /></div></div>
+          <div className="lg:col-span-5"><div className="relative aspect-[4/5] bg-canvas overflow-hidden border border-line"><Image src="/img/hero-scene.jpg" alt="Studio Ova" fill sizes="(max-width:1024px) 100vw, 40vw" className="object-cover" /></div></div>
           <div className="lg:col-span-7">
             <div className="eyebrow">Our story</div>
             <div className="mt-6 space-y-5 max-w-xl text-[16px] leading-relaxed text-[color:var(--charcoal)]">{siteConfig.studio.longBio.map((p) => <p key={p}>{p}</p>)}</div>

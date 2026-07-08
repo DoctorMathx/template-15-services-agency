@@ -11,7 +11,7 @@ export const siteConfig = {
   studio: {
     name: "Studio Ova",
     role: "Small, sharp, six people",
-    portrait: "/img/women-founders.png",
+    portrait: "/img/hero-portrait.jpg",
     shortBio: "We are a six-person studio in Lagos designing brands and products for the operators building the next Africa.",
     longBio: [
       "We started Studio Ova in 2022 with one thesis: African challenger brands deserve the same quality of design as the best studios in London or NYC — without the six-month waiting list and the ₦120m invoice.",
